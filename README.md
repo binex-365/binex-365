@@ -52,23 +52,8 @@
 ### 🏆 GitHub Streak & Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=binex-365&theme=tokyonight" />
-</p><br>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=binex-365&theme=algolia&no-frame=true&column=4" />
 </p>
----
-
-### 🏆 GitHub Streak & Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=binex-365&theme=tokyonight" />
-</p><br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binex-365&theme=algolia&no-frame=true&column=4" />
-</p>
-
 ---
 
 ### 🔥 Fun Animated Typing
