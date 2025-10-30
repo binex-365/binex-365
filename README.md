@@ -49,13 +49,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Streak & Trophies
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binex-365&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binex-365&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=binex-365&theme=tokyonight" />
+</p><br>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binex-365&theme=algolia&no-frame=true&column=4" />
+</p>
 ---
 
 ### 🏆 GitHub Streak & Trophies
