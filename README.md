@@ -14,7 +14,7 @@
 - 🤖 Building **BinexIQ** — AI Coding Assistant  
 - 🚗 Founder of **Genkada Automobile**  
 - 🎯 Mission: Transform ideas into real-world digital solutions  
-- ✉️ Contact: **oe201374@gmail.com**
+- ✉️ Contact: **oe201374@gmail.com || seniordev1119@gmail.com**
 
 ---
 
@@ -45,6 +45,7 @@
 | BinexHub 🛍️ | E-commerce platform with custom backend | 🔗 https://binexhub.kesug.com |
 | BinexAds 📢 | Online classified ads marketplace | 🔗 https://binexads.vercel.app |
 | Chibobec Foundation ❤️ | Charity website with modules & donations | 🔗 https://ccf.wuaze.com |
+| Obinna-Portfolio 🛍️ | My protfolio site for more details | 🔗 https://obinna.kesug.com |
 
 ---
 
