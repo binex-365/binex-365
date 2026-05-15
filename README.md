@@ -1,171 +1,250 @@
+<!-- ================================================== -->
+<!--           OBINNA EMMANUEL · GITHUB README          -->
+<!-- ================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Obinna%20Emmanuel&fontAlign=50&fontAlignY=40&color=0:0f172a,100:0ea5e9&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+<!-- Animated Hero Banner -->
+<a href="https://obinna.kesug.com">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=240&section=header&text=Obinna%20Emmanuel&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20AI%20Product%20Builder%20·%20UI%2FUX%20Engineer&descSize=16&descAlignY=60&animation=fadeIn" alt="Obinna Emmanuel — Full-Stack Engineer" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI+Product+Builder;UI%2FUX+Engineer;Creative+Frontend+%26+Backend+Developer;Building+Real-World+Digital+Products" />
+<!-- Animated Typing -->
+<a href="https://obinna.kesug.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Engineering+intelligent%2C+scalable+digital+products.;Building+AI-powered+experiences+from+Lagos%2C+Nigeria.;Frontend+%C2%B7+Backend+%C2%B7+AI+%C2%B7+UI%2FUX+%C2%B7+Deployment.;Crafted+with+care.+Shipped+to+production." alt="Typing animation" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binex-365&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/binex-365?style=for-the-badge&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/binex-365?style=for-the-badge&color=0ea5e9" />
+<br/>
+
+<!-- Profile Meta Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Based_in-Lagos,_Nigeria-0f172a?style=for-the-badge&labelColor=0f172a&color=6366f1" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-0f172a?style=for-the-badge&labelColor=0f172a&color=8b5cf6" />
+  <img src="https://komarev.com/ghpvc/?username=binex-365&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
----
+<br/>
 
-# 🧠 About Me
+<!-- ============================ ABOUT ============================ -->
 
-I'm a self-taught Full-Stack Software Engineer from Nigeria passionate about building intelligent, scalable, and visually engaging digital products.
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="22" /></picture> About
 
-I specialize in:
-- ⚡ Modern Frontend Engineering
-- 🧠 AI-Powered Applications
-- 🔐 Backend Development
-- 📊 Admin Dashboard Systems
-- 🚗 Automobile Marketplace Platforms
-- 🚚 Logistics & Shipment Platforms
-- 🌍 Business & Enterprise Websites
-- 📱 Responsive & Interactive UI Systems
+I'm a **self-taught Full-Stack Software Engineer** focused on building intelligent, scalable, and visually engaging digital products. I care deeply about clean architecture, polished interfaces, and shipping things that actually work in the real world.
 
-Currently Building:
-- 🤖 BineXIQ — AI-powered development platform
-- 🚘 BineXAuto — modern automobile marketplace
-- 🏠 Real Estate Web Platform
-- ❤️ Charity & Educational Platforms
-- 📦 Logistics & Shipment Management Systems
+I started with **frontend foundations** during my Industrial Training at **Upperlink** — HTML, CSS, JavaScript, and Bootstrap — and have since grown independently into **full-stack engineering, AI-powered applications, and admin dashboard systems** by building, deploying, and debugging real products end-to-end.
 
----
+```yaml
+name:        Obinna Emmanuel
+role:        Full-Stack Software Engineer
+focus:       AI Products · Dashboards · Modern UI/UX
+location:    Lagos, Nigeria
+learning:    Always — through building real things
+portfolio:   https://obinna.kesug.com
+```
 
-# 💻 Tech Stack
+<br/>
+
+<!-- ============================ PORTFOLIO CTA ============================ -->
 
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
+### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20With%20Meridians.png" width="22" /></picture> Visit My Portfolio
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<a href="https://obinna.kesug.com">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20obinna.kesug.com-Explore_the_Full_Portfolio-0f172a?style=for-the-badge&labelColor=0f172a&color=6366f1" height="48" />
+</a>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-
-### 🚀 Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode" />
+<sub>Live projects · case studies · engineering work · contact</sub>
 
 </div>
 
----
+<br/>
 
-# 🌟 Featured Projects
+<!-- ============================ TECH STACK ============================ -->
 
-<table>
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22" /></picture> Tech Stack
+
+<table align="center">
 <tr>
-<td width="50%">
-
-## 🚗 Genkada Automobile
-Modern automobile marketplace with inspection booking system, admin dashboard, database integration, and responsive UI.
-
-🔗 https://genkadaautomobile.com
-
-</td>
-
-<td width="50%">
-
-## 🚚 Labellson Logistics
-Professional logistics & shipment platform with tracking system and modern responsive frontend.
-
-🔗 https://globeluxe-logistics.lovable.app/
-
-</td>
+  <td align="center" width="120"><b>Frontend</b></td>
+  <td>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" /></a>
+  </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-## 📢 BinexAds
-Online classified ads marketplace platform with scalable UI architecture.
-
-🔗 https://binexads.vercel.app
-
-</td>
-
-<td width="50%">
-
-## ❤️ Chibobec Investment
-Modern investment and financial growth platform.
-
-🔗 https://chibobecinvestment.vercel.app
-
-</td>
+  <td align="center"><b>Backend</b></td>
+  <td>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php" /></a>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Databases</b></td>
+  <td>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" /></a>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Deployment&nbsp;&amp;&nbsp;Tools</b></td>
+  <td>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" /></a>
+  </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 📊 GitHub Analytics
+<!-- ============================ FEATURED PROJECTS ============================ -->
 
-<div align="center">
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="22" /></picture> Featured Projects
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=binex-365&show_icons=true&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+  <td width="50%" valign="top">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=binex-365&theme=tokyonight&hide_border=true" />
+### Genkada Automobile
+A modern automobile marketplace with car listings, inspection booking, an admin dashboard, and a fully integrated backend.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binex-365&layout=compact&theme=tokyonight&hide_border=true" />
+`React` · `Node.js` · `Admin Dashboard` · `Production`
 
-</div>
+<a href="https://genkadaautomobile.com">
+  <img src="https://img.shields.io/badge/Live-genkadaautomobile.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" />
+</a>
 
----
+  </td>
+  <td width="50%" valign="top">
 
-# ⚡ Engineering Strengths
+### Labellson Logistics
+A modern logistics & shipment platform with shipment creation, cargo tracking, and a clean global shipping UI.
 
-✅ Full-Stack Development  
-✅ AI Product Building  
-✅ Responsive UI Engineering  
-✅ Backend Integration  
-✅ Deployment & Hosting  
-✅ Database Architecture  
-✅ Admin Dashboard Systems  
-✅ SEO Optimization  
-✅ Debugging & Problem Solving  
-✅ Real-World Product Development  
+`React` · `Logistics` · `Tracking` · `Responsive UI`
 
----
+<a href="https://globeluxe-logistics.lovable.app/">
+  <img src="https://img.shields.io/badge/Live-globeluxe--logistics-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" />
+</a>
 
-# 🌍 Live Projects
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
-| Platform | Live Link |
-|---|---|
-| 🚗 Genkada Automobile | https://genkadaautomobile.com |
-| 📢 BinexAds | https://binexads.vercel.app |
-| ❤️ Chibobec Charity Foundation | https://ccf.wuaze.com |
-| 🛍️ BinexHub | https://binexhub.kesug.com |
-| 👨‍💻 Portfolio Website | https://obinna.kesug.com |
+### BinexAds
+A classified ads marketplace platform with browsing, listing, and category-based discovery.
 
----
+`React` · `Marketplace` · `Vercel`
 
-# 📫 Connect With Me
+<a href="https://binexads.vercel.app">
+  <img src="https://img.shields.io/badge/Live-binexads.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
+</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+### Chibobec Investment
+An investment and financial growth platform with a modern, trust-focused interface.
+
+`React` · `Fintech UI` · `Vercel`
+
+<a href="https://chibobecinvestment.vercel.app">
+  <img src="https://img.shields.io/badge/Live-chibobecinvestment-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
+</a>
+
+  </td>
+</tr>
+<tr>
+  <td colspan="2" valign="top">
+
+### Chibobec Charity Foundation
+A charity and donation platform built to support real-world community impact, with a clean and approachable UI.
+
+`PHP` · `Donation Flow` · `Production`
+
+<a href="https://ccf.wuaze.com">
+  <img src="https://img.shields.io/badge/Live-ccf.wuaze.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" />
+</a>
+
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================ GITHUB ANALYTICS ============================ -->
+
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" /></picture> GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/binex-365">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=binex-365&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=8b5cf6&icon_color=6366f1&text_color=cbd5e1&bg_color=0f172a" />
+</a>
+<a href="https://github.com/binex-365">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=binex-365&hide_border=true&background=0f172a&stroke=6366f1&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" />
 </a>
 
-<a href="mailto:oe201374@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<br/>
+
+<a href="https://github.com/binex-365">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binex-365&layout=compact&hide_border=true&title_color=8b5cf6&text_color=cbd5e1&bg_color=0f172a&langs_count=8" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binex-365&bg_color=0f172a&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true" width="98%" />
 
 </div>
 
----
+<br/>
+
+<!-- ============================ JOURNEY ============================ -->
+
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="22" /></picture> Learning Journey
+
+My engineering skills are mostly **self-taught through continuous, real-world project building** — experimenting, debugging, deploying, and iterating until things work in production.
+
+- **Industrial Training @ Upperlink** — foundational frontend: HTML, CSS, JavaScript, Bootstrap
+- **Independent learning** — React, Vite, Tailwind CSS, modern UI engineering
+- **Backend exploration** — Node.js, Express, PHP, REST APIs
+- **Databases** — MongoDB, MySQL, PostgreSQL, Supabase
+- **Deployment** — Vercel, VPS hosting, production debugging
+- **Now** — building AI-powered applications, admin systems, and full-stack products end-to-end
+
+<br/>
+
+<!-- ============================ CONTACT ============================ -->
+
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="22" /></picture> Let's Connect
+
+<table>
+<tr>
+  <td><b>Portfolio</b></td>
+  <td><a href="https://obinna.kesug.com">obinna.kesug.com</a></td>
+</tr>
+<tr>
+  <td><b>Email</b></td>
+  <td><a href="mailto:oe201374@gmail.com">oe201374@gmail.com</a></td>
+</tr>
+<tr>
+  <td><b>GitHub</b></td>
+  <td><a href="https://github.com/binex-365">@binex-365</a></td>
+</tr>
+<tr>
+  <td><b>Phone</b></td>
+  <td>+234 913 546 7762</td>
+</tr>
+</table>
+
+<p>
+  <a href="https://obinna.kesug.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" /></a>
+  <a href="mailto:oe201374@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
+  <a href="https://github.com/binex-365"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" /></a>
+</p>
+
+<br/>
+
+<!-- ============================ FOOTER WAVE ============================ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:0f172a&height=120&section=footer&text=Built%20with%20intent.%20Shipped%20with%20care.&fontSize=14&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
 </div>
