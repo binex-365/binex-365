@@ -29,7 +29,7 @@
 
 <!-- ============================ ABOUT ============================ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="22" /></picture> About
+## ✨ About
 
 I'm a **self-taught Full-Stack Software Engineer** focused on building intelligent, scalable, and visually engaging digital products. I care deeply about clean architecture, polished interfaces, and shipping things that actually work in the real world.
 
@@ -50,7 +50,7 @@ portfolio:   https://obinna.kesug.com
 
 <div align="center">
 
-### <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20With%20Meridians.png" width="22" /></picture> Visit My Portfolio
+### 🌐 Visit My Portfolio
 
 <a href="https://obinna.kesug.com">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20obinna.kesug.com-Explore_the_Full_Portfolio-0f172a?style=for-the-badge&labelColor=0f172a&color=6366f1" height="48" />
@@ -64,7 +64,7 @@ portfolio:   https://obinna.kesug.com
 
 <!-- ============================ TECH STACK ============================ -->
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22" /></picture> Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -97,7 +97,7 @@ portfolio:   https://obinna.kesug.com
 
 <!-- ============================ FEATURED PROJECTS ============================ -->
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="22" /></picture> Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -172,7 +172,7 @@ A charity and donation platform built to support real-world community impact, wi
 
 <!-- ============================ GITHUB ANALYTICS ============================ -->
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" /></picture> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -191,7 +191,7 @@ A charity and donation platform built to support real-world community impact, wi
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binex-365&bg_color=0f172a&color=8b5cf6&line=6366f1&point=ffffff&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binex-365&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="98%" />
 
 </div>
 
@@ -199,7 +199,7 @@ A charity and donation platform built to support real-world community impact, wi
 
 <!-- ============================ JOURNEY ============================ -->
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="22" /></picture> Learning Journey
+## 📚 Learning Journey
 
 My engineering skills are mostly **self-taught through continuous, real-world project building** — experimenting, debugging, deploying, and iterating until things work in production.
 
@@ -214,7 +214,7 @@ My engineering skills are mostly **self-taught through continuous, real-world pr
 
 <!-- ============================ CONTACT ============================ -->
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="22" /></picture> Let's Connect
+## 🤝 Let's Connect
 
 <table>
 <tr>
